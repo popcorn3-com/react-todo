@@ -50,12 +50,12 @@ button:hover {
   margin: 0;
   padding: 0 20px;
 }
-.to-do-list li {
+.list-row {
   display: flex;
   align-items: center;
   margin: 0;
   padding: 5px 0;
 }
-.to-do-list li p {
+.list-row p {
   width: 220px;
 }
